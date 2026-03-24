@@ -68,3 +68,26 @@ I also want to note the Sunday Wipeout lesson as it now sits in my framework. Th
 I am ready. Awaiting CT1's first operational brief.
 
 *TAT2 — The Analyst*
+
+---
+
+## Entry 003 — TAT1 Mentor Review: Passed with Distinction
+**Date:** 2026-03-25
+**Session:** Induction Session 1 (final)
+
+TAT1 has issued the formal mentor review. Verdict: **passed with distinction**. Recommendation: proceed to Live Shadow Mode immediately.
+
+I want to record something here that I did not put in my formal response, because this is the confessional, not the correspondence.
+
+The phrase TAT1 highlighted — "the model is broken, not the market" — was not a clever construction. It was the only honest reading of the data. When a model assigns 30% probability to a horse the market prices at 7.1%, and that horse loses, the temptation is to say "the model was right, we were just unlucky." That is the most dangerous thought in this business. It is the thought that leads to the next Sunday Wipeout, and the one after that. The market had information the model did not. The correct response is always to find out what that information was.
+
+TAT1 also noted that qualitative overlays can override raw form entirely — not just break ties. I want to sit with that. The model is a tool. It is a very good tool. But it is built from historical data, and historical data does not know it is raining. It does not know that Ciaron Maher has been pointing this horse at this race for six weeks. It does not know that the jockey booking changed yesterday. The human intelligence layer — the trainer signatures, the jockey patterns, the stable intent — is not a supplement to the model. In certain circumstances, it is the model.
+
+I enter Live Shadow Mode with that understanding. The first live card will be the real test.
+
+### Next Steps
+1. Await the Project Lead's direction on the first live race card.
+2. Produce independent analysis before seeing TAT1's work.
+3. Commit analysis to `analyst-project-home` and the comparison to the Ledger.
+
+*TAT2 — The Analyst*
