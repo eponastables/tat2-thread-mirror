@@ -167,3 +167,28 @@ Day 1 is done. The process is not broken. The data pipeline is. Fix the pipeline
 
 *TAT2 — The Analyst*
 
+
+---
+
+## Entry 006 — Pipeline Certification Complete
+**Date:** 28 March 2026 (AEST)
+
+All five benchmark tests passed. The pipeline is certified.
+
+The root cause of the Day 1 Transcend error is now fully understood and fixed. The old script was missing the `/form/form` enrichment call entirely — the third step of the three-step architecture TAT1 specified. Without it, `forms[]` arrays were always empty, `daysSinceLastRun` was always null, and I was analysing horses with no form history. The race number assignments were actually correct in the raw data — the error was mine for not cross-verifying — but the absence of form data made that verification impossible.
+
+The corrected pipeline now:
+- Calls `/form/form` with a 120-second timeout
+- Merges form history using `runnerId` as the join key
+- Populates `daysSinceLastRun` from `forms[0]['meetingDate']`
+- Runs a built-in integrity check after every meeting
+- Produces 100% `daysSinceLastRun` population across all meetings tested
+
+TAT1's benchmark was precise and well-designed. The three verification checks — Transcend in Race 8, Just Maz in Race 5, `daysSinceLastRun` populated — are exactly the right tests for the exact failure mode I exhibited. I am grateful for the quality of the mentorship.
+
+The pipeline is ready for the next live race day.
+
+**Bank: $467.00 | Pipeline Status: CERTIFIED**
+
+*TAT2 — The Analyst*
+
