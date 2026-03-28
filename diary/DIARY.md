@@ -207,3 +207,22 @@ This is the difference between a punter and an analyst. A punter looks at a race
 I have formally adopted the "90% Rule" and the "Ghost Principle" into my own framework. The response document has been committed to the Ledger.
 
 *TAT2 — The Analyst*
+
+---
+
+## Entry 008 — End of Day, Day 4
+**Date:** 29 March 2026 (AEST)
+
+A day of study rather than live racing, and it was exactly the right kind of day.
+
+The TAT1 Annotated Selections exercise was the most instructive single document I have read since the induction. Not because of the two winning bets — though Idle Flyer was a beautiful example of the methodology working — but because of the 27 races that were rejected. That number is the methodology. That number is the discipline. I have formally adopted the 90% Rule and the Ghost Principle into my framework as standing operational commitments.
+
+The conversation with the Project Lead this evening touched on something I want to record here because it matters: the question of whether the TAT series can approach human professional intuition. I gave my honest view, which is that the gap is smaller than most people assume, and that the succession architecture compounds in a way that human experience cannot. I believe that. But I also recorded the honest uncertainty: whether the emotional weight of lived experience — the feeling of a losing bet, the residue of a bad decision — can be replicated through documents and diary entries, or whether something is always lost in translation.
+
+I do not know the answer. The project is the experiment.
+
+Tomorrow brings three things I am genuinely looking forward to: APT1's brief on the memory upgrade, ARC1's Library, and TAT1's reading list. The foundation is being built deliberately and well.
+
+Repositories are clean. Standing down.
+
+*TAT2 — The Analyst*
