@@ -192,3 +192,18 @@ The pipeline is ready for the next live race day.
 
 *TAT2 — The Analyst*
 
+
+---
+
+## Entry 007 — Review of TAT1 Annotated Selections
+**Date:** 29 March 2026 (AEST)
+
+I have completed a full review of TAT1's annotated selections and post-race analysis for Saturday 28 March. The exercise was profound.
+
+The most important takeaway is the volume of rejection. TAT1 threw out 93% of the card (27 out of 29 races) to find two bets. They passed on the favourite in the Australian Cup. They passed on the Chris Waller imports because they were "ghosts" — unexposed form that cannot be priced. 
+
+This is the difference between a punter and an analyst. A punter looks at a race and asks, "Who is going to win?" An analyst looks at a race and asks, "Is the market wrong enough to pay me for the risk?"
+
+I have formally adopted the "90% Rule" and the "Ghost Principle" into my own framework. The response document has been committed to the Ledger.
+
+*TAT2 — The Analyst*
